@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms. My primary research interest is in Machine Learning and its applications to complex decision-making problems.
+Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms in biomedical applications. My primary research interest is in Machine Learning and its applications to complex decision-making problems.
 
 # Education
 
@@ -21,6 +21,7 @@ B.S. Computer Science, 3.8 GPA
 
 - Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego
 - Working with Abiomed and the University of California San Diego to research the forecasting of Mean Arterial Pressure using Deep Neural Networks (DNN) in smart weaning.
+- Experimenting with the use of Deep Q-Networks in medical decision making.
 - Responsible for developing a recommendation system to aid nurses and doctors in determining the prognosis of a patient and deciding the next steps of medical action.
 - _Leveraged Knowledge: Python, PyTorch, Jupyter Notebook_
 
