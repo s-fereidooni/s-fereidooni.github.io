@@ -2,10 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
 Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms. My primary research interest is in Machine Learning and its applications to complex decision-making problems.
 
 # Education
@@ -19,107 +15,42 @@ B.S. Computer Science, 3.8 GPA
 - IDEA Scholarship, UC San Diego (2022 - 2026)
 - Semi-Finalist, National Merit Scholarship Corporation (2022)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 # Experience
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
+**Undergraduate Researcher**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego\_
 
-#### Header 4
+- Working with Abiomed and the University of California San Diego to research the forecasting of Mean Arterial Pressure using Deep Neural Networks (DNN) in smart weaning.
+- Responsible for developing a recommendation system to aid nurses and doctors in determining the prognosis of a patient and deciding the next steps of medical action.
+- _Leveraged Knowledge: Python, PyTorch, Jupyter Notebook_
 
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
+**Evaluation of Metronidazole Resistance In Bacteroides Genus (Published)**
 
-##### Header 5
+- Worked closely with mentor from Stanford University under UCI to study and write a research paper on the growing resistance of Bacteroides fragilis towards Metronidazole through identifying strains with Nim genes.
+- The research involved R Studio software programming, as well as working with large-scale databases.
+- The paper was selected for exhibition to be presented to Margot Gerritsen, the Professor of Energy Resources Engineering and ICME at Stanford.
+- _Leveraged Knowledge: R Studio, NCBI BLAST Search, Excel_
+- [[PDF]](file:///Users/soniafereidooni/Downloads/Evaluation%20of%20Metronidazole%20Resistance%20In%20Bacteroides%20Genus%20-%20Sonia%20Fereidooni.pdf)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Software Developer at [JuiceMind](https://www.juicemind.com/) (startup)**
 
-###### Header 6
+- Education technology platform with a comprehensive product line focused on
+  bringing Computer Science to classrooms across the nation.
+- Developed a React dashboard that queries a Firebase database with 3,000+ users
+  in order to make customer data easily accessible to our marketing team.
+- Increased sales by 20% by performing data analysis to develop a “Weekly movers”
+  feature that allows our marketing team to instantaneously follow up with
+  customers who made any progress on the product within the past week.
+- Independently navigated Girls Who Code through our sales pipeline, from making
+  the initial point of contact to closing the sale.
+- _Leveraged Knowledge: ReactJS, JavaScript, HTML, CSS, Git, AWS_
 
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**C.R. Laurence Engineering Intern**
 
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Summer engineering internship at C.R. Laurence, the leading supplier to the
+  glazing, architectural, railing, construction, industrial, and automotive
+  industries.
+- Worked with Autodesk Inventor and iLogic software to design models of
+  industrial products.
+- _Leveraged Knowledge: Autodesk Inventor, CAD, iLogic_
