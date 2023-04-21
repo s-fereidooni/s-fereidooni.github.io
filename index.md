@@ -19,8 +19,7 @@ B.S. Computer Science, 3.8 GPA
 
 **Undergraduate Researcher**
 
-- Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego\_
-
+- Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego
 - Working with Abiomed and the University of California San Diego to research the forecasting of Mean Arterial Pressure using Deep Neural Networks (DNN) in smart weaning.
 - Responsible for developing a recommendation system to aid nurses and doctors in determining the prognosis of a patient and deciding the next steps of medical action.
 - _Leveraged Knowledge: Python, PyTorch, Jupyter Notebook_
@@ -45,6 +44,13 @@ B.S. Computer Science, 3.8 GPA
 - Independently navigated Girls Who Code through our sales pipeline, from making
   the initial point of contact to closing the sale.
 - _Leveraged Knowledge: ReactJS, JavaScript, HTML, CSS, Git, AWS_
+
+**Tutor CSE 12, CSE 11, CSE 8B (Computer Science Dept., UCSD)**
+
+- Tutored and supported students in CSE 11 and CSE 12, including office hours and ticket-based assistance.
+- Effectively communicated complex coding concepts and assisted with real-world comprehension and application, acting as a mentor to my students.
+- Improved grades and confidence of students through dedication to their success.
+  Valuable asset to the educational experience of peers through passion for coding and commitment to helping others.
 
 **C.R. Laurence Engineering Intern**
 
