@@ -23,7 +23,7 @@ B.S. Computer Science, 3.8 GPA
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+# Experience
 
 ```js
 // Javascript code with syntax highlighting.
