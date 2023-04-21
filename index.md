@@ -31,7 +31,7 @@ B.S. Computer Science, 3.8 GPA
 - The research involved R Studio software programming, as well as working with large-scale databases.
 - The paper was selected for exhibition to be presented to Margot Gerritsen, the Professor of Energy Resources Engineering and ICME at Stanford.
 - _Leveraged Knowledge: R Studio, NCBI BLAST Search, Excel_
-- [[PDF]](file:///Users/soniafereidooni/Downloads/Evaluation%20of%20Metronidazole%20Resistance%20In%20Bacteroides%20Genus%20-%20Sonia%20Fereidooni.pdf)
+- [[PDF]](https://drive.google.com/file/d/1m1W9wbMlpWoVUjYnfCsF6Y8hXZ9WmyXw/view?usp=sharing)
 
 **Software Developer at [JuiceMind](https://www.juicemind.com/) (startup)**
 
