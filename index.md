@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms in biomedical applications. My primary research interest is in Machine Learning and its applications to complex decision-making problems.
+Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms in biomedical applications. My primary research interest is in Machine Learning and its applications to complex decision-making problems..
 
 # Education
 
