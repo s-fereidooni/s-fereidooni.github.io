@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab where I am involved in research related to Deep Reinforcement Learning, specifically in the implementation of Deep Q-Networks (DQN) and related algorithms in biomedical applications. My primary research interest is in Machine Learning and its applications to complex decision-making problems..
+Welcome! I am an undergraduate student at the University of California San Diego, pursuing a B.S. in Computer Science. Currently, I am a member of [Dr. Rose Yu’s](https://roseyu.com/) Spatiotemporal Machine Learning Lab, where I am involved in research related to Deep Learning and Reinforcement Learning for biomedical applications. My primary research interest is in Machine Learning and its applications to complex decision-making problems, particularly in healthcare.
 
 # Education
 
-Undergraduate, University of California San Diego (July. 2022 - June 2026)
+Undergraduate, University of California San Diego (Sept. 2022 - June 2026)  
 B.S. Computer Science, 3.8 GPA
 
 # Honors and Awards
@@ -17,47 +17,46 @@ B.S. Computer Science, 3.8 GPA
 
 # Experience
 
-**Undergraduate Researcher**
-
-- Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego
-- Working with Abiomed and the University of California San Diego to research the forecasting of Mean Arterial Pressure using Deep Neural Networks (DNN) in smart weaning.
-- Experimenting with the use of Deep Q-Networks in medical decision making.
-- Responsible for developing a recommendation system to aid nurses and doctors in determining the prognosis of a patient and deciding the next steps of medical action.
+**Undergraduate Researcher**  
+*Dr. Rose Yu Spatiotemporal Machine Learning Lab, University of California San Diego*  
+- Collaborated with Abiomed, a Johnson & Johnson Medtech company, on Aortic Pressure Forecasting and Smart Weaning using Deep Learning.  
+- Focused on developing data-driven recommendations for physicians treating patients with mechanical circulatory support (MCS) devices.  
+- Assisted with data analysis, preprocessing, and figure creation, contributing to the development of a reward scoring function.  
+- Currently improving the model and exploring reinforcement learning algorithms such as Model-based Offline Policy Optimization (MOPO) and Model-Based Offline Reinforcement Learning (MOReL).  
+- Co-authored a paper accepted to the 6th Annual Learning for Dynamics & Control Conference (L4DC) at the University of Oxford, titled "Data-Driven Simulator for Mechanical Circulatory Support with Domain Adversarial Neural Process."  
 - _Leveraged Knowledge: Python, PyTorch, Jupyter Notebook_
 
-**Evaluation of Metronidazole Resistance In Bacteroides Genus (Published)**
+**Software Development Engineering Intern**  
+*Amazon Web Services (AWS)* | *June 2024 - August 2024*  
+- Worked on the Computer Vision Data Platform Team to contribute to scalable data platforms for AWS services such as Textract and Rekognition.  
+- Collaborated with Machine Learning Scientists and Dev Ops, reducing engineering effort and optimizing system performance by developing a new internal feature using TypeScript, Java, Docker, and native Amazon tooling.  
+- _Leveraged Knowledge: TypeScript, Java, Docker, AWS Native Tooling_
 
-- Worked closely with mentor from Stanford University under UCI to study and write a research paper on the growing resistance of Bacteroides fragilis towards Metronidazole through identifying strains with Nim genes.
-- The research involved R Studio software programming, as well as working with large-scale databases.
-- The paper was selected for exhibition to be presented to Margot Gerritsen, the Professor of Energy Resources Engineering and ICME at Stanford.
-- _Leveraged Knowledge: R Studio, NCBI BLAST Search, Excel_
-- [[PDF]](https://drive.google.com/file/d/1m1W9wbMlpWoVUjYnfCsF6Y8hXZ9WmyXw/view?usp=sharing)
+**Software Engineering Intern**  
+*Parsec Automation Corp.* | *July 2023 - Sept 2023*  
+- Led the integration of the MQTT networking protocol using C# and Visual Studio, improving real-time data processing efficiency by 20% for clients like Pfizer, Nestle, and Procter & Gamble.  
+- Developed a generative AI application for SQL querying with a data visualization feature, boosting data interpretability by 40%.  
+- _Leveraged Knowledge: C#, Visual Studio, MQTT, SQL, Generative AI_
 
-**Software Developer at [JuiceMind](https://www.juicemind.com/) (startup)**
-
-- Education technology platform with a comprehensive product line focused on
-  bringing Computer Science to classrooms across the nation.
-- Developed a React dashboard that queries a Firebase database with 3,000+ users
-  in order to make customer data easily accessible to our marketing team.
-- Increased sales by 20% by performing data analysis to develop a “Weekly movers”
-  feature that allows our marketing team to instantaneously follow up with
-  customers who made any progress on the product within the past week.
-- Independently navigated Girls Who Code through our sales pipeline, from making
-  the initial point of contact to closing the sale.
+**Software Developer at [JuiceMind](https://www.juicemind.com/)**  
+- Developed a high-performance ReactJS dashboard querying a Firebase database with over 30,000 users, improving marketing data access.  
+- Implemented the "Weekly Movers" feature, contributing to a 25% increase in sales by enabling immediate follow-ups on customer engagement.  
+- Managed the sales pipeline independently, including closing a deal with Girls Who Code.  
 - _Leveraged Knowledge: ReactJS, JavaScript, HTML, CSS, Git, AWS_
 
-**Tutor CSE 12, CSE 11, CSE 8B (Computer Science Dept., UCSD)**
+**Instructional Assistant - Computer Science and Engineering Department**  
+*University of California San Diego*  
+- Tutored over 700 students in Data Structures and Object-Oriented Programming (Java, C++).  
+- Provided support through office hours and ticket-based assistance, mentoring students and improving their grades and confidence.
 
-- Tutored and supported students in CSE 11 and CSE 12, including office hours and ticket-based assistance.
-- Effectively communicated complex coding concepts and assisted with real-world comprehension and application, acting as a mentor to my students.
-- Improved grades and confidence of students through dedication to their success.
-  Valuable asset to the educational experience of peers through passion for coding and commitment to helping others.
-
-**C.R. Laurence Engineering Intern**
-
-- Summer engineering internship at C.R. Laurence, the leading supplier to the
-  glazing, architectural, railing, construction, industrial, and automotive
-  industries.
-- Worked with Autodesk Inventor and iLogic software to design models of
-  industrial products.
+**C.R. Laurence Engineering Intern**  
+*Summer 2021*  
+- Worked with Autodesk Inventor and iLogic software to design models of industrial products.  
 - _Leveraged Knowledge: Autodesk Inventor, CAD, iLogic_
+
+# Technical Skills
+
+- **Languages**: Python, Java, C/C++, C#, SQL, JavaScript, HTML/CSS, R, TypeScript  
+- **Frameworks**: React, Node.js, Flask, JUnit, Material-UI, REST API  
+- **Developer Tools**: Git, GitHub, Docker, VS Code, Visual Studio, Eclipse, AWS  
+- **Libraries**: pandas, NumPy, PyTorch, Matplotlib
