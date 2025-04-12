@@ -7,10 +7,11 @@ Welcome! I am an undergraduate student at the University of California San Diego
 # Education
 
 Undergraduate, University of California San Diego (July. 2022 - June 2026)
-B.S. Computer Science, 3.8 GPA
+B.S. Computer Science
 
 # Honors and Awards
 
+- [CRA Outstanding Undergraduate Research Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/), Honorable Mention (2025)
 - Regents Scholarship, UC San Diego (2022 - 2026)
 - IDEA Scholarship, UC San Diego (2022 - 2026)
 - Semi-Finalist, National Merit Scholarship Corporation (2022)
